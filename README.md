@@ -1,2 +1,3 @@
-# FNF-CoC
-An FNF mod based on the fan game/mod, Bendy: Chaos Cycle!
+# Friday Night Funkin': Cycle of Chaos
+
+### This repository is under construction. Check back later.
